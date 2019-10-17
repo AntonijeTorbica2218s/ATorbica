@@ -1,10 +1,5 @@
-<p>
-    Antonije
-</p>
-<p>
-    Torbica
-</p>
-<p>
-    S22/18
-</p>
-
+<?php
+echo "Antonije <br>";
+echo "Torbica <br>";
+echo "S22/18";
+?>
